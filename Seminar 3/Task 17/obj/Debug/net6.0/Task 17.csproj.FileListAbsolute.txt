@@ -1,0 +1,15 @@
+C:\Users\Мышка\Desktop\Seminars C#\Seminars-C-Sharp\Seminar 3\Task 17\bin\Debug\net6.0\Task 17.exe
+C:\Users\Мышка\Desktop\Seminars C#\Seminars-C-Sharp\Seminar 3\Task 17\bin\Debug\net6.0\Task 17.deps.json
+C:\Users\Мышка\Desktop\Seminars C#\Seminars-C-Sharp\Seminar 3\Task 17\bin\Debug\net6.0\Task 17.runtimeconfig.json
+C:\Users\Мышка\Desktop\Seminars C#\Seminars-C-Sharp\Seminar 3\Task 17\bin\Debug\net6.0\Task 17.dll
+C:\Users\Мышка\Desktop\Seminars C#\Seminars-C-Sharp\Seminar 3\Task 17\bin\Debug\net6.0\Task 17.pdb
+C:\Users\Мышка\Desktop\Seminars C#\Seminars-C-Sharp\Seminar 3\Task 17\obj\Debug\net6.0\Task 17.csproj.AssemblyReference.cache
+C:\Users\Мышка\Desktop\Seminars C#\Seminars-C-Sharp\Seminar 3\Task 17\obj\Debug\net6.0\Task 17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мышка\Desktop\Seminars C#\Seminars-C-Sharp\Seminar 3\Task 17\obj\Debug\net6.0\Task 17.AssemblyInfoInputs.cache
+C:\Users\Мышка\Desktop\Seminars C#\Seminars-C-Sharp\Seminar 3\Task 17\obj\Debug\net6.0\Task 17.AssemblyInfo.cs
+C:\Users\Мышка\Desktop\Seminars C#\Seminars-C-Sharp\Seminar 3\Task 17\obj\Debug\net6.0\Task 17.csproj.CoreCompileInputs.cache
+C:\Users\Мышка\Desktop\Seminars C#\Seminars-C-Sharp\Seminar 3\Task 17\obj\Debug\net6.0\Task 17.dll
+C:\Users\Мышка\Desktop\Seminars C#\Seminars-C-Sharp\Seminar 3\Task 17\obj\Debug\net6.0\refint\Task 17.dll
+C:\Users\Мышка\Desktop\Seminars C#\Seminars-C-Sharp\Seminar 3\Task 17\obj\Debug\net6.0\Task 17.pdb
+C:\Users\Мышка\Desktop\Seminars C#\Seminars-C-Sharp\Seminar 3\Task 17\obj\Debug\net6.0\Task 17.genruntimeconfig.cache
+C:\Users\Мышка\Desktop\Seminars C#\Seminars-C-Sharp\Seminar 3\Task 17\obj\Debug\net6.0\ref\Task 17.dll
